@@ -1,0 +1,3 @@
+﻿D:\MREGITHUB\Catalogo\src\Mre.Visas.Catalogo.Domain\Entities\AuditableEntity.cs
+D:\MREGITHUB\Catalogo\src\Mre.Visas.Catalogo.Domain\Entities\BaseEntity.cs
+D:\MREGITHUB\Catalogo\src\Mre.Visas.Catalogo.Domain\Entities\Catalogo.cs

@@ -1,0 +1,14 @@
+﻿D:\MREGITHUB\Catalogo\src\Mre.Visas.Catalogo.Application\Catalogo\Queries\ConsultarCatalogoQuery.cs
+D:\MREGITHUB\Catalogo\src\Mre.Visas.Catalogo.Application\Catalogo\Repositories\ICatalogoRepository.cs
+D:\MREGITHUB\Catalogo\src\Mre.Visas.Catalogo.Application\Catalogo\Requests\ConsultarCatalogoRequest.cs
+D:\MREGITHUB\Catalogo\src\Mre.Visas.Catalogo.Application\ServiceRegistrations.cs
+D:\MREGITHUB\Catalogo\src\Mre.Visas.Catalogo.Application\Shared\Behaviors\ValidationBehavior.cs
+D:\MREGITHUB\Catalogo\src\Mre.Visas.Catalogo.Application\Shared\Formats\ApiFormats.cs
+D:\MREGITHUB\Catalogo\src\Mre.Visas.Catalogo.Application\Shared\Handlers\BaseHandler.cs
+D:\MREGITHUB\Catalogo\src\Mre.Visas.Catalogo.Application\Shared\Helpers\CommonHelpers.cs
+D:\MREGITHUB\Catalogo\src\Mre.Visas.Catalogo.Application\Shared\Helpers\DeserializationHelpers.cs
+D:\MREGITHUB\Catalogo\src\Mre.Visas.Catalogo.Application\Shared\Interfaces\IUnitOfWork.cs
+D:\MREGITHUB\Catalogo\src\Mre.Visas.Catalogo.Application\Shared\Repositories\IRepository.cs
+D:\MREGITHUB\Catalogo\src\Mre.Visas.Catalogo.Application\Shared\Requests\BaseByIdRequest.cs
+D:\MREGITHUB\Catalogo\src\Mre.Visas.Catalogo.Application\Shared\Responses\BaseResponse.cs
+D:\MREGITHUB\Catalogo\src\Mre.Visas.Catalogo.Application\Shared\Wrappers\ApiResponseWrapper.cs

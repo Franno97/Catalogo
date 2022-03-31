@@ -1,0 +1,16 @@
+﻿D:\MREGITHUB\Catalogo\src\Mre.Visas.Catalogo.Api\Controllers\BaseController.cs
+D:\MREGITHUB\Catalogo\src\Mre.Visas.Catalogo.Api\Controllers\CatalogoController.cs
+D:\MREGITHUB\Catalogo\src\Mre.Visas.Catalogo.Api\Extensions\AppExtensions.cs
+D:\MREGITHUB\Catalogo\src\Mre.Visas.Catalogo.Api\Extensions\ServiceExtensions.cs
+D:\MREGITHUB\Catalogo\src\Mre.Visas.Catalogo.Api\Middlewares\ApiExceptionMiddleware.cs
+D:\MREGITHUB\Catalogo\src\Mre.Visas.Catalogo.Api\Program.cs
+D:\MREGITHUB\Catalogo\src\Mre.Visas.Catalogo.Api\Startup.cs
+D:\MREGITHUB\Catalogo\src\Mre.Visas.Catalogo.Api\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+D:\MREGITHUB\Catalogo\src\Mre.Visas.Catalogo.Api\obj\Debug\net5.0\Mre.Visas.Catalogo.Api.AssemblyInfo.cs
+D:\MREGITHUB\Catalogo\src\Mre.Visas.Catalogo.Api\obj\Debug\net5.0\Mre.Visas.Catalogo.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\MREGITHUB\Catalogo\src\Mre.Visas.Catalogo.Api\appsettings.Development.json
+D:\MREGITHUB\Catalogo\src\Mre.Visas.Catalogo.Api\appsettings.json
+D:\MREGITHUB\Catalogo\src\Mre.Visas.Catalogo.Api\appsettings.Production.json
+D:\MREGITHUB\Catalogo\src\Mre.Visas.Catalogo.Api\appsettings.QA.json
+D:\MREGITHUB\Catalogo\src\Mre.Visas.Catalogo.Api\Properties\launchSettings.json
+D:\MREGITHUB\Catalogo\src\Mre.Visas.Catalogo.Api\obj\Debug\net5.0\apphost.exe

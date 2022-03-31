@@ -1,0 +1,6 @@
+﻿D:\MREGITHUB\Catalogo\src\Mre.Visas.Catalogo.Infrastructure\Catalogo\Configurations\CatalogoConfiguration.cs
+D:\MREGITHUB\Catalogo\src\Mre.Visas.Catalogo.Infrastructure\Catalogo\Repositories\CatalogoRepository.cs
+D:\MREGITHUB\Catalogo\src\Mre.Visas.Catalogo.Infrastructure\Persistence\Contexts\ApplicationDbContext.cs
+D:\MREGITHUB\Catalogo\src\Mre.Visas.Catalogo.Infrastructure\ServiceRegistrations.cs
+D:\MREGITHUB\Catalogo\src\Mre.Visas.Catalogo.Infrastructure\Shared\Interfaces\UnitOfWork.cs
+D:\MREGITHUB\Catalogo\src\Mre.Visas.Catalogo.Infrastructure\Shared\Repositories\Repository.cs
